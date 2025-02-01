@@ -1,2 +1,3 @@
 codeblocks=https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe
 vscode=https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+droidcam=https://github.com/dev47apps/windows-releases/releases/download/win-6.5.2/DroidCam.Setup.6.5.2.exe
