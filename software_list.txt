@@ -1,0 +1,2 @@
+codeblocks=https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe
+vscode=https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
